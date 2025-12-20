@@ -29,7 +29,7 @@ const services = [
     icon: Receipt,
     title: "Tax Planning & Regulatory Compliance",
     description:
-      "Strategic tax planning to minimize liabilities while ensuring full compliance with all regulatory requirements, including GST, TDS, and Income Tax returns. We stay current with tax laws to maximize your deductions and credits.",
+      "Strategic tax planning to minimize liabilities while ensuring full compliance with all regulatory requirements. We stay current with tax laws to maximize your deductions and credits.",
   },
   {
     icon: Users,
