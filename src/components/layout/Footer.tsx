@@ -79,25 +79,25 @@ const Footer = () => {
               <li className="flex items-start gap-3">
                 <MapPin size={18} className="text-secondary mt-0.5 flex-shrink-0" />
                 <span className="text-primary-foreground/70 text-sm">
-                  123 Business District, Financial Center, FC 10001
+                  2 Kalyan Kunj, Nr. Gurukrupa Society, Manjitnagar Road, Tulsidham Char Rasta, Manjalpur, Vadodara 390011
                 </span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone size={18} className="text-secondary flex-shrink-0" />
                 <a
-                  href="tel:+1234567890"
+                  href="tel:+919265512803"
                   className="text-primary-foreground/70 hover:text-primary-foreground transition-colors duration-200 text-sm"
                 >
-                  +1 (234) 567-890
+                  +91 92655 12803
                 </a>
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={18} className="text-secondary flex-shrink-0" />
                 <a
-                  href="mailto:info@officeworks.com"
+                  href="mailto:officeworks.ind@gmail.com"
                   className="text-primary-foreground/70 hover:text-primary-foreground transition-colors duration-200 text-sm"
                 >
-                  info@officeworks.com
+                  officeworks.ind@gmail.com
                 </a>
               </li>
             </ul>

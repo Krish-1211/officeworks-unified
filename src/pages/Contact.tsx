@@ -168,8 +168,9 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold text-navy mb-1">Our Office</h3>
                     <p className="text-muted-foreground">
-                      123 Business District<br />
-                      Financial Center, FC 10001
+                      2 Kalyan Kunj, Nr. Gurukrupa Society,<br />
+                      Manjitnagar Road, Tulsidham Char Rasta,<br />
+                      Manjalpur, Vadodara 390011
                     </p>
                   </div>
                 </div>
@@ -181,10 +182,10 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold text-navy mb-1">Phone</h3>
                     <a
-                      href="tel:+1234567890"
+                      href="tel:+919265512803"
                       className="text-muted-foreground hover:text-primary transition-colors"
                     >
-                      +1 (234) 567-890
+                      +91 92655 12803
                     </a>
                   </div>
                 </div>
@@ -196,10 +197,10 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold text-navy mb-1">Email</h3>
                     <a
-                      href="mailto:info@officeworks.com"
+                      href="mailto:officeworks.ind@gmail.com"
                       className="text-muted-foreground hover:text-primary transition-colors"
                     >
-                      info@officeworks.com
+                      officeworks.ind@gmail.com
                     </a>
                   </div>
                 </div>
